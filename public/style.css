@@ -5,7 +5,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .index {
-    background: url('../img/bg1.jpg') no-repeat center center fixed;
+    background: url('/public/../img/bg1.jpg') no-repeat center center fixed;
     background-size: cover;
     background-attachment: fixed; /* Effet de parallaxe */
 }
